@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>帅逗</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2019-09-01T07:07:50.846Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>刘帅</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>管理平台测试</title>
+    <link href="http://yoursite.com/2019/08/31/%E7%90%86%E5%B9%B3%E5%8F%B0%E6%B5%8B%E8%AF%95/"/>
+    <id>http://yoursite.com/2019/08/31/理平台测试/</id>
+    <published>2019-08-31T15:35:07.000Z</published>
+    <updated>2019-09-01T07:07:50.846Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>这是一首歌，大家可以听一下a</p>    <div id="aplayer-oOywhSgy" class="aplayer aplayer-tag-marker meting-tag-marker" data-id="187738" data-server="netease" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#555"></div>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>水调歌头·明月几时有</title>
+    <link href="http://yoursite.com/2019/08/29/my-second-blog/"/>
+    <id>http://yoursite.com/2019/08/29/my-second-blog/</id>
+    <published>2019-08-29T15:50:55.000Z</published>
+    <updated>2019-08-31T15:23:16.075Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><ul><li><h1 id="水调歌头·明月几时有"><a href="#水调歌头·明月几时有" class="headerlink" title="水调歌头·明月几时有"></a>水调歌头·明月几时有</h1></li><li><p>[宋] <a href="http://www.shicimingju.com/chaxun/zuozhe/9.html" target="_blank" rel="noopener">苏轼</a></p></li><li><p>丙辰中秋，欢饮达旦，大醉，作此篇。兼怀子由。   </p></li><li><p>明月几时有，把酒问青天。<br>不知天上宫阙，今夕是何年？<br>我欲乘风归去，又恐琼楼玉宇，<br>高处不胜寒。<br>起舞弄清影，何似在人间！ </p></li><li><p>转朱阁，低绮户，照无眠。<br>不应有恨，何事长向别时圆？<br>人有悲欢离合，月有阴晴圆缺，<br>此事古难全。<br>但愿人长久，千里共婵娟。</p></li></ul><p><img src="/2019/08/29/my-second-blog/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20190829232405.jpg" alt="刘雨泽"></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla
+      
+    
+    </summary>
+    
+    
+      <category term="古诗" scheme="http://yoursite.com/tags/%E5%8F%A4%E8%AF%97/"/>
+    
+  </entry>
+  
+</feed>
