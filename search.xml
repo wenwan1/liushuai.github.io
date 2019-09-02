@@ -1,17 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[Hexo 添加音乐视频]]></title>
+    <url>%2F2019%2F09%2F02%2F%E6%B7%BB%E5%8A%A0%E9%9F%B3%E9%A2%91%2F</url>
+    <content type="text"><![CDATA[——-昼伏宵行经大漠，云阴月黑风沙恶。－－缚戎人【唐】[白居易] 为了使我们的博客更加的实用化和娱乐化，我们可以给自己的博客添加相应的小功能，这一节我们在博客中添加音乐和视频的播放功能。 安装插件：12视频：npm install hexo-tag-dplayer --save音乐：npm install hexo-tag-aplayer --save 上述插件对应的GitHub文件位置位于 12hexo-tag-aplayer: https://github.com/MoePlayer/hexo-tag-aplayer#upstream-issuehexo-tag-dplayer: https://github.com/MoePlayer/hexo-tag-dplayer 我们首先查看音乐插件，打开GitHub连接，可以发现该插件的使用方法： 1&#123;% aplayer title author url [picture_url, narrow, autoplay, width:xxx, lrc:xxx] %&#125; Option title : music title author: music author url: music file url picture_url: optional, music picture url narrow: optional, narrow style autoplay: optional, autoplay music, not supported by mobile browsers width:xxx: optional, prefix width:, player’s width (default: 100%) lrc:xxx: optional, prefix lrc:, LRC file url 123456音乐&#123;% aplayer "Caffeine" "Jeff Williams" "http://7xq131.com1.z0.glb.clouddn.com/Preparation.mp3" "autoplay" %&#125;网易云音乐&lt;iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&amp;id=420125990&amp;auto=1&amp;height=66"&gt;&lt;/iframe&gt;虾米&lt;script type="text/javascript" src="http://www.xiami.com/widget/player-single?uid=32329501&amp;sid=17 同理，我们可以查看视频插件的使用方法 1&#123;% dplayer key=value ... %&#125; 其中 key 为该组件的属性，有如下属性： 1234dplayer options: &apos;autoplay&apos;, &apos;loop&apos;, &apos;screenshot&apos;, &apos;hotkey&apos;, &apos;mutex&apos;, &apos;dmunlimited&apos; : bool options, use &quot;yes&quot; &quot;y&quot; &quot;true&quot; &quot;1&quot; &quot;on&quot; or just without value to enable &apos;preload&apos;, &apos;theme&apos;, &apos;lang&apos;, &apos;logo&apos;, &apos;url&apos;, &apos;pic&apos;, &apos;thumbnails&apos;, &apos;vidtype&apos;, &apos;suburl&apos;, &apos;subtype&apos;, &apos;subbottom&apos;, &apos;subcolor&apos;, &apos;subcolor&apos;, &apos;id&apos;, &apos;api&apos;, &apos;token&apos;, &apos;addition&apos;, &apos;dmuser&apos; : string arguments &apos;volume&apos;, &apos;maximum&apos; : number arguments 举个例子： 12345678910111213141516171819202122232425262728293031323334353637&#123; container: &quot;you needn&apos;t set this&quot;, autoplay: &apos;autoplay&apos;, theme: &apos;theme&apos;, loop: &apos;loop&apos;, lang: &apos;lang&apos;, screenshot: &apos;screenshot&apos;, hotkey: &apos;hotkey&apos;, preload: &apos;preload&apos;, logo: &apos;logo&apos;, volume: &apos;volume&apos;, mutex: &apos;mutex&apos;, video: &#123; url: &apos;url&apos;, pic: &apos;pic&apos;, thumbnails: &apos;thumbnails&apos;, type: &apos;vidtype&apos;, &#125;, subtitle: &#123; url: &apos;suburl&apos;, type: &apos;subtype&apos;, fontSize: &apos;subsize&apos;, bottom: &apos;subbottom&apos;, color: &apos;subcolor&apos;, &#125;, danmaku: &#123; id: &apos;id&apos;, api: &apos;api&apos;, token: &apos;token&apos;, maximum: &apos;maximum&apos;, addition: [&apos;addition&apos;], user: &apos;dmuser&apos;, unlimited: &apos;dmunlimited&apos;, &#125;, icons: &apos;icons&apos;, contextmenu: &apos;menu&apos;,&#125; 1&#123;% dplayer &quot;url=http://devtest.qiniudn.com/若能绽放光芒.mp4&quot; &quot;api=http://dplayer.daoapp.io&quot; &quot;pic=http://devtest.qiniudn.com/若能绽放光芒.png&quot; &quot;id=9E2E3368B56CDBB4&quot; &quot;loop=yes&quot; &quot;theme=#FADFA3&quot; &quot;autoplay=false&quot; &quot;token=tokendemo&quot; %&#125; 参考文档：https://www.jianshu.com/p/8e1cf1ca131b]]></content>
+      <tags>
+        <tag>hexo</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[加油]]></title>
     <url>%2F2019%2F09%2F02%2Ffighting%2F</url>
     <content type="text"><![CDATA[古之立大事者，不惟有超世之才，亦必有坚韧不拔之志。——苏轼]]></content>
       <tags>
         <tag>自勉</tag>
       </tags>
-  </entry>
-  <entry>
-    <title><![CDATA[管理平台测试]]></title>
-    <url>%2F2019%2F08%2F31%2F%E7%90%86%E5%B9%B3%E5%8F%B0%E6%B5%8B%E8%AF%95%2F</url>
-    <content type="text"><![CDATA[这是一首歌，大家可以听一下a]]></content>
   </entry>
   <entry>
     <title><![CDATA[水调歌头·明月几时有]]></title>
