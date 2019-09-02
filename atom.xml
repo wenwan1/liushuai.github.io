@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-09-01T07:07:50.846Z</updated>
+  <updated>2019-09-02T02:53:30.345Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,13 +17,36 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>加油</title>
+    <link href="http://yoursite.com/2019/09/02/fighting/"/>
+    <id>http://yoursite.com/2019/09/02/fighting/</id>
+    <published>2019-09-02T02:24:13.000Z</published>
+    <updated>2019-09-02T02:53:30.345Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>古之立大事者，不惟有超世之才，亦必有坚韧不拔之志。——苏轼</p><div class="owl-media owl-video owl-bilibili"><embed src="http://static.hdslb.com/miniloader.swf" flashvars="aid=17651595268574778129&page=1" pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" quality="high" allowfullscreen="true"></div>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla
+      
+    
+    </summary>
+    
+    
+      <category term="自勉" scheme="http://yoursite.com/tags/%E8%87%AA%E5%8B%89/"/>
+    
+  </entry>
+  
+  <entry>
     <title>管理平台测试</title>
     <link href="http://yoursite.com/2019/08/31/%E7%90%86%E5%B9%B3%E5%8F%B0%E6%B5%8B%E8%AF%95/"/>
     <id>http://yoursite.com/2019/08/31/理平台测试/</id>
     <published>2019-08-31T15:35:07.000Z</published>
     <updated>2019-09-01T07:07:50.846Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>这是一首歌，大家可以听一下a</p>    <div id="aplayer-EPyGboVm" class="aplayer aplayer-tag-marker meting-tag-marker" data-id="187738" data-server="netease" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#555"></div>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>这是一首歌，大家可以听一下a</p>    <div id="aplayer-ACUJbWDL" class="aplayer aplayer-tag-marker meting-tag-marker" data-id="187738" data-server="netease" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#555"></div>]]></content>
     
     <summary type="html">
     
